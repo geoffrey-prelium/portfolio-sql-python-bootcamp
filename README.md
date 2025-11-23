@@ -35,7 +35,7 @@ Le schéma respecte les principes de normalisation et d'intégrité référentie
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/votre-pseudo/learnfast-sql-project.git](https://github.com/votre-pseudo/learnfast-sql-project.git)
+    git clone [https://github.com/geoffrey-prelium/portfolio-sql-python-bootcamp.git](https://github.com/geoffrey-prelium/portfolio-sql-python-bootcamp.git)
     cd learnfast-sql-project
     ```
 
