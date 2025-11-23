@@ -1,0 +1,5 @@
+id_cours,titre,prix,id_instructeur
+101,Introduction au SQL,49.99,1
+102,Python pour Débutants,0,2
+103,Data Viz avec Tableau,99.90,1
+104,UX Design Avancé,75.00,3
